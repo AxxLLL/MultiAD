@@ -153,7 +153,7 @@ new DO_USUNIECIA_GLITCH_DEBUG[25];
 #define ROUND_COUNTDOWN_TIME                    5
 #define CAR_SPAWN_DIS                           50.0
 //------------------------------------------------------------------------------
-#define _VERSION        						"2.0.4"
+#define _VERSION        						"2.0.4" 
 #define INT_VERSION                             20004 //G.MM.SS
 #define LAST_UPDATE    							"29/12/2015"
 #define GM_NAME                     			"Multi A/D (v"_VERSION")"
