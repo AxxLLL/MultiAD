@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<commands>
+	<public>
+		<cmd name="/public_1">
+			<lang value="pl" params="param1, param2">
+				<description>Przykladowy opis komendy publicznej 1.</description>
+			</lang>
+			<lang value="en" params="param1, param2">
+				<description>Przykladowy opis komendy publicznej 1 w jezyku angielskim.</description>
+			</lang>			
+		</cmd>
+		<cmd name="/public_2">
+			<lang value="pl" params="param1, param2">
+				<description>Przykladowy opis komendy publicznej 2.</description>
+			</lang>
+			<lang value="en" params="param1, param2">
+				<description>Przykladowy opis komendy publicznej 2 w jezyku angielskim.</description>
+			</lang>			
+		</cmd>
+	</public>
+	<j-admin>
+		<cmd name="/ja_1">
+			<lang value="pl" params="param1, param2">
+				<description>Przykladowy opis komendy junior admina 1.</description>
+			</lang>
+			<lang value="en" params="param1, param2">
+				<description>Przykladowy opis komendy junior admina 1 w jezyku angielskim.</description>
+			</lang>			
+		</cmd>		
+	</j-admin>
+	<admin>
+		<cmd name="/a_1">
+			<lang value="pl" params="param1, param2">
+				<description>Przykladowy opis komendy admina 1.</description>
+			</lang>
+			<lang value="en" params="param1, param2">
+				<description>Przykladowy opis komendy admina 1 w jezyku angielskim.</description>
+			</lang>			
+		</cmd>		
+	</admin>
+	<h-admin>
+		<cmd name="/ha_1">
+			<lang value="pl" params="param1, param2">
+				<description>Przykladowy opis komendy head admina 1.</description>
+			</lang>
+			<lang value="en" params="param1, param2">
+				<description>Przykladowy opis komendy head admina 1 w jezyku angielskim.</description>
+			</lang>			
+		</cmd>	
+	</h-admin>
+</commands>

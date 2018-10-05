@@ -1,0 +1,56 @@
+table {
+	font-family: sans-serif, Verdana, Helvetica, Arial;
+	
+}
+
+.table_style_1 {
+	text-align: center;
+	border-style: solid;
+	border-spacing: 0px;
+	border-color: rgb(30, 30, 30);
+	border-width: 2px;	
+	border-top-right-radius: 7.0px;
+	border-top-left-radius: 7.0px;	
+	border-spacing: 0px;
+}
+
+.table_style_1 thead {
+	color: rgb(230, 230, 230);	
+	font-weight: 700;
+	font-size: 15px;
+	background-color: rgb(30, 30, 30);	
+}
+
+.table_style_1 tbody {
+	font-size: 12px;
+}
+
+.table_style_1 tbody td {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+.table_style_2 {
+	text-align: center;
+	border-style: solid;
+	border-spacing: 0px;
+	border-color: rgb(30, 30, 30);
+	border-width: 1px;	
+	border-spacing: 0px;
+}
+
+.tr_color_0 {
+	background-color: rgb(240, 240, 240);
+}
+
+.tr_color_1 {
+	background-color: rgb(220, 220, 220);
+}
+
+p .missing_data {
+
+}
+
+p .anchor {
+
+}

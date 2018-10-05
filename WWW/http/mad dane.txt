@@ -1,0 +1,4 @@
+Baza danych: | virt104529_multi
+Host: | localhost
+Nazwa u¿ytkownika: | NoN
+Has³o: | NoN

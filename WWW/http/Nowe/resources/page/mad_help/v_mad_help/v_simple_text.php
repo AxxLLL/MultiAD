@@ -1,0 +1,1 @@
+<?php include(dirname(__FILE__)."/../m_mad_help/m_simple_text.php");  ?>

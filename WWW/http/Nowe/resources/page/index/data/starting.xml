@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<starting>
+	<type name="MAD" version="2.0.3" download="/Nowe/downloads/MultiAD 2.0.3.rar"/>
+	<type name="SA-MP" version="0.3z R-2" download="http://files.sa-mp.com/sa-mp-0.3z-R2-install.exe"/>
+</starting>

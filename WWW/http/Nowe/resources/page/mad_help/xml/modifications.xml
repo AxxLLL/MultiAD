@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modifications>
+	<description lang="pl">
+		<step id="step_1" name="Modyfikacja 1">
+			Opis jakiejs modyfikacji 1
+		</step>
+		<step id="step_2" name="Modyfikacja 2">
+			Opis jakiejs modyfikacji 2
+		</step>
+		<step id="step_3" name="Modyfikacja 3">
+			Opis jakiejs modyfikacji 3
+		</step>
+		<step id="step_4" name="Modyfikacja 4">
+			Opis jakiejs modyfikacji 4
+		</step>
+		<step id="step_5" name="Modyfikacja 5">
+			Opis jakiejs modyfikacji 5
+		</step>
+	</description>
+	<description lang="en" name="Modyfikacja 1">
+		<step id="step_1">
+			Opis jakiejs modyfikacji w jezyku angielskim 1
+		</step>
+		<step id="step_2" name="Modyfikacja 2">
+			Opis jakiejs modyfikacji w jezyku angielskim 2
+		</step>
+		<step id="step_3" name="Modyfikacja 3">
+			Opis jakiejs modyfikacji w jezyku angielskim 3
+		</step>
+	</description>
+</modifications>
